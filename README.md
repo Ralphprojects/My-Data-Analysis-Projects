@@ -3,11 +3,12 @@
 ## TABLE OF CONTENTS
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
-- [Tools Used](#tools-Used)
-- [Data Cleaninig/Preparation](#data-cleaning/preparation)
-- 
+- [Tools Used](#tools-used)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Exploratory Data Analysis (EDA)](exploratory-data-analysis)
+- [Results/Findings](results/findings)
+- [Recommendations](recommendations)
   
-
 ### Project Overview
 I’m excited to share my recent Data Analysis project focused on Workforce and Career Insights in Data Related Jobs.
 
@@ -73,5 +74,7 @@ Insight: The surge in 2023 suggests recovery or expansion. Use this data to fore
 Google search
 [Stack overflow](https://stack.com)
 
+### I’m continuously improving my data analytics skills and I’m open to feedback, collaboration, and opportunities in Data Analysis / Business Intelligence.
+#DataAnalysis #DataAnalytics #Python #SQL #PowerBI #Excel #Portfolio
 
 
