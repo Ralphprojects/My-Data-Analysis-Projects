@@ -11,6 +11,9 @@
 ### Project Overview
 I’m excited to share my recent Data Analysis project focused on Workforce and Career Insights in Data Related Jobs.
 
+<img width="1857" height="617" alt="Screenshot 2026-01-30 143440" src="https://github.com/user-attachments/assets/2db869c2-c51a-4843-9bc9-f08059db1c16" />
+
+
 ### Data Source
 Dat Jobs - The primary data source used in this analysis is gotten from Kaggle website.
 
